@@ -12,3 +12,6 @@ print("Am I hungry: " +im_hungry)
 print("Number of pizzas I'm eating: " +str(pizzas))
 print("Slices per pizza: " +str(pizza_slices))
 print("Time it will take to get here (in mins): " +str(delivery_time_mins))
+
+y = 5.4
+print(y)
